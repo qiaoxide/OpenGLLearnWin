@@ -1,3 +1,10 @@
+/**
+OPENGL基础绘制三角形
+
+
+*/
+
+
 #include<iostream>
 #include<glad/glad.h>
 #include<GLFW/glfw3.h>
@@ -22,7 +29,8 @@ const char* fragmentShaderSource =
 "}\0";
 
 
-int main() 
+//int main() 
+int triangles()
 {
 
 	
