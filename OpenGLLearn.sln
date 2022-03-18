@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLLearn1", "OpenGLLearn
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLLearn2", "OpenGLLearn2\OpenGLLearn2.vcxproj", "{2981C317-7164-445D-AC2E-A1E6D1564BDC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLLearn_glm", "OpenGLLearn_glm\OpenGLLearn_glm.vcxproj", "{972AAB39-464A-4071-9689-0DFFF236FB54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{2981C317-7164-445D-AC2E-A1E6D1564BDC}.Release|x64.Build.0 = Release|x64
 		{2981C317-7164-445D-AC2E-A1E6D1564BDC}.Release|x86.ActiveCfg = Release|Win32
 		{2981C317-7164-445D-AC2E-A1E6D1564BDC}.Release|x86.Build.0 = Release|Win32
+		{972AAB39-464A-4071-9689-0DFFF236FB54}.Debug|x64.ActiveCfg = Debug|x64
+		{972AAB39-464A-4071-9689-0DFFF236FB54}.Debug|x64.Build.0 = Debug|x64
+		{972AAB39-464A-4071-9689-0DFFF236FB54}.Debug|x86.ActiveCfg = Debug|Win32
+		{972AAB39-464A-4071-9689-0DFFF236FB54}.Debug|x86.Build.0 = Debug|Win32
+		{972AAB39-464A-4071-9689-0DFFF236FB54}.Release|x64.ActiveCfg = Release|x64
+		{972AAB39-464A-4071-9689-0DFFF236FB54}.Release|x64.Build.0 = Release|x64
+		{972AAB39-464A-4071-9689-0DFFF236FB54}.Release|x86.ActiveCfg = Release|Win32
+		{972AAB39-464A-4071-9689-0DFFF236FB54}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
