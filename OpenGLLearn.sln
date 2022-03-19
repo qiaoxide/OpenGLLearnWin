@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLLearn2", "OpenGLLearn
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLLearn_glm", "OpenGLLearn_glm\OpenGLLearn_glm.vcxproj", "{972AAB39-464A-4071-9689-0DFFF236FB54}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLLearn_cube", "OpenGLLearn_cube\OpenGLLearn_cube.vcxproj", "{38BD785B-C27A-41EE-AFA5-534AD471B511}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLLearn_basic", "OpenGLLearn_basic\OpenGLLearn_basic.vcxproj", "{D5D1B165-B7AF-4AF4-8C0A-A704E169FB4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +55,22 @@ Global
 		{972AAB39-464A-4071-9689-0DFFF236FB54}.Release|x64.Build.0 = Release|x64
 		{972AAB39-464A-4071-9689-0DFFF236FB54}.Release|x86.ActiveCfg = Release|Win32
 		{972AAB39-464A-4071-9689-0DFFF236FB54}.Release|x86.Build.0 = Release|Win32
+		{38BD785B-C27A-41EE-AFA5-534AD471B511}.Debug|x64.ActiveCfg = Debug|x64
+		{38BD785B-C27A-41EE-AFA5-534AD471B511}.Debug|x64.Build.0 = Debug|x64
+		{38BD785B-C27A-41EE-AFA5-534AD471B511}.Debug|x86.ActiveCfg = Debug|Win32
+		{38BD785B-C27A-41EE-AFA5-534AD471B511}.Debug|x86.Build.0 = Debug|Win32
+		{38BD785B-C27A-41EE-AFA5-534AD471B511}.Release|x64.ActiveCfg = Release|x64
+		{38BD785B-C27A-41EE-AFA5-534AD471B511}.Release|x64.Build.0 = Release|x64
+		{38BD785B-C27A-41EE-AFA5-534AD471B511}.Release|x86.ActiveCfg = Release|Win32
+		{38BD785B-C27A-41EE-AFA5-534AD471B511}.Release|x86.Build.0 = Release|Win32
+		{D5D1B165-B7AF-4AF4-8C0A-A704E169FB4C}.Debug|x64.ActiveCfg = Debug|x64
+		{D5D1B165-B7AF-4AF4-8C0A-A704E169FB4C}.Debug|x64.Build.0 = Debug|x64
+		{D5D1B165-B7AF-4AF4-8C0A-A704E169FB4C}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5D1B165-B7AF-4AF4-8C0A-A704E169FB4C}.Debug|x86.Build.0 = Debug|Win32
+		{D5D1B165-B7AF-4AF4-8C0A-A704E169FB4C}.Release|x64.ActiveCfg = Release|x64
+		{D5D1B165-B7AF-4AF4-8C0A-A704E169FB4C}.Release|x64.Build.0 = Release|x64
+		{D5D1B165-B7AF-4AF4-8C0A-A704E169FB4C}.Release|x86.ActiveCfg = Release|Win32
+		{D5D1B165-B7AF-4AF4-8C0A-A704E169FB4C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
