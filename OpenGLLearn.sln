@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLLearn_basic", "OpenGL
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLLearn_camera", "OpenGLLearn_camera\OpenGLLearn_camera.vcxproj", "{F95EBB50-A559-4DF1-AB05-AD1321126F1B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLLearn_light", "OpenGLLearn_light\OpenGLLearn_light.vcxproj", "{1F21472B-2087-45D1-9F4C-4C3C0572B889}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{F95EBB50-A559-4DF1-AB05-AD1321126F1B}.Release|x64.Build.0 = Release|x64
 		{F95EBB50-A559-4DF1-AB05-AD1321126F1B}.Release|x86.ActiveCfg = Release|Win32
 		{F95EBB50-A559-4DF1-AB05-AD1321126F1B}.Release|x86.Build.0 = Release|Win32
+		{1F21472B-2087-45D1-9F4C-4C3C0572B889}.Debug|x64.ActiveCfg = Debug|x64
+		{1F21472B-2087-45D1-9F4C-4C3C0572B889}.Debug|x64.Build.0 = Debug|x64
+		{1F21472B-2087-45D1-9F4C-4C3C0572B889}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F21472B-2087-45D1-9F4C-4C3C0572B889}.Debug|x86.Build.0 = Debug|Win32
+		{1F21472B-2087-45D1-9F4C-4C3C0572B889}.Release|x64.ActiveCfg = Release|x64
+		{1F21472B-2087-45D1-9F4C-4C3C0572B889}.Release|x64.Build.0 = Release|x64
+		{1F21472B-2087-45D1-9F4C-4C3C0572B889}.Release|x86.ActiveCfg = Release|Win32
+		{1F21472B-2087-45D1-9F4C-4C3C0572B889}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
